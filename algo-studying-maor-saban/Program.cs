@@ -6,7 +6,7 @@ namespace algo_studying_maor_saban
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello israel!");
         }
     }
 }
