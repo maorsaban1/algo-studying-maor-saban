@@ -4,7 +4,7 @@ using System.Text;
 
 namespace algo_studying_maor_saban
 {
-    public class common
+    public class ProcessManager
     {
         public static void RunProcess()
         {
